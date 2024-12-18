@@ -21,8 +21,8 @@ public class assignmentO {
         // System.out.println(B);
 
         int B = 5;
-        B = B % 5;
-        //B %= 5;
+        //B = B % 5;
+        B %= 5;
         System.out.println(B);
     }
 }
