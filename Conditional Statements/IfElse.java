@@ -8,6 +8,7 @@ public class IfElse {
         if(age > 13 && age < 18) {
             System.out.println("teenager");
         }
+        
         else {
             System.out.println("You can't vote");
         }

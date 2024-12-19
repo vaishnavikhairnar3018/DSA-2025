@@ -3,10 +3,9 @@ public class LargestOf2 {
         int A = 10;
         int B = 78;
 
-        if (A > B) {
+        if (A >= B) {
             System.out.println("A is greater than B");
         }
-
         else {
             System.out.println("B is greater than A");
         }
