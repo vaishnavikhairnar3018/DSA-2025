@@ -5,7 +5,7 @@ public class continueEx {
         Scanner sc = new Scanner(System.in);
 
         do {
-            System.out.println("Enter a munber :");
+            System.out.println("Enter a nunber :");
             int n = sc.nextInt();
 
             if(n % 10 == 0) {
