@@ -8,7 +8,7 @@ public class LinearSearch {
                 return i;
             }
         }
-        return -1;
+        return -1; // key not exist
     }
 
     public static void main(String[] args) {
